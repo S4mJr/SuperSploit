@@ -2,7 +2,7 @@ Exploit Any System with Our Tool.
 
 SuperSploit - Auto Explotation & Exploit Search
 
-Created by: Sam Junior - Gh0stM4n | Universal Hacking Founder
+Created by: Sam Junior - Nightm4RE
 
 
 To run our Tool write on your terminal:
